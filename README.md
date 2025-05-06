@@ -1,4 +1,5 @@
-![AIEduBot UI](aiedubot_ui.png)
+![AIEduBot UI](assets/aiedubot_ui.png)
+
 
 # 🤖 AIEduBot: Multimodal AI ChatBot for YouTube Video QA
 
