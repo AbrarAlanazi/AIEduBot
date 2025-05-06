@@ -4,7 +4,7 @@
 
 Welcome to **AIEduBot** — a multimodal, interactive chatbot designed to answer user questions about **educational YouTube videos** related to Artificial Intelligence. The system extracts insights from video content using automatic speech recognition, chunking, embedding, and a LangChain-powered QA pipeline.
 
-🔗 **Live Demo**: [aiedubot-fzt4db9283sdiryyap6cxz.streamlit.app](https://aiedubot-fzt4db9283sdiryyap6cxz.streamlit.app)
+🔗 **Live Demo**: [AIEduBot](https://aiedubot-fzt4db9283sdiryyap6cxz.streamlit.app)
 
 ---
 
