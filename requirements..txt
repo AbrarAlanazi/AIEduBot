@@ -15,17 +15,15 @@ scikit-learn
 numpy
 openai
 
-# For LLM
+# LLM and tokenization
 tiktoken
 requests
+
+# Streamlit frontend
+streamlit
+streamlit-chat
 
 # Optional for development and compatibility
 wheel
 setuptools
 
-streamlit
-streamlit-chat
-openai
-langchain
-chromadb
-sentence-transformers
