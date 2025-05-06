@@ -141,11 +141,7 @@ Example Questions:
 
 ---
 
-## 📄 Report
 
-A companion **PDF report** is available for download, summarizing all methodology and design decisions. *(You can generate this automatically or contact the developer for a copy.)*
-
----
 
 ## 🧑‍💻 Author
 
