@@ -149,8 +149,8 @@ A companion **PDF report** is available for download, summarizing all methodolog
 
 ## 🧑‍💻 Author
 
-Developed by [ [EchoLogic]
- Abrar Alanazi
- Albandari Altalh as part of the Ironhack Final Project — 2025 AI Engineer Bootcamp.  
+Developed by EchoLogic Grop 
+ [Abrar Alanazi
+ Albandari Altalh] as part of the Ironhack Final Project — 2025 AI Engineer Bootcamp.  
 Feel free to contribute, fork, or reach out for collaborations.
 
