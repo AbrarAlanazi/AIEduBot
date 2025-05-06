@@ -1,3 +1,5 @@
+![AIEduBot Interface](image/aiedubot_ui.png)
+
 # 🤖 AIEduBot: Multimodal AI ChatBot for YouTube Video QA
 
 Welcome to **AIEduBot** — a multimodal, interactive chatbot designed to answer user questions about **educational YouTube videos** related to Artificial Intelligence. The system extracts insights from video content using automatic speech recognition, chunking, embedding, and a LangChain-powered QA pipeline.
