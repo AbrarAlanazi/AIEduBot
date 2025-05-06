@@ -1,0 +1,31 @@
+# Core dependencies
+openai-whisper
+yt-dlp
+pytube
+gtts
+SpeechRecognition
+pyaudio
+python-dotenv
+langchain
+langchain-openai
+langsmith
+chromadb
+sentence-transformers
+scikit-learn
+numpy
+openai
+
+# For LLM
+tiktoken
+requests
+
+# Optional for development and compatibility
+wheel
+setuptools
+
+streamlit
+streamlit-chat
+openai
+langchain
+chromadb
+sentence-transformers
