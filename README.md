@@ -68,7 +68,7 @@ The aim of AIEduBot is to improve **accessibility** and **interactivity** with e
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/aiedubot.git
+git clone https://github.com/Abrar_Alanazi/aiedubot.git
 cd aiedubot
 ```
 
@@ -128,7 +128,7 @@ Make sure `requirements.txt` is installed. Key libraries include:
 Example Questions:
 - "What is supervised learning?"
 - "How does backpropagation work?"
-- "What was the key takeaway of this lecture?"
+- "How does AI learn from data? ?"
 
 ---
 
@@ -145,8 +145,8 @@ Example Questions:
 
 ## 🧑‍💻 Author
 
-Developed by EchoLogic Grop 
+Developed by EchoLogic Group 
  [Abrar Alanazi
- Albandari Altalh] as part of the Ironhack Final Project — 2025 AI Engineer Bootcamp.  
+ & Albandari Altalh] as part of the Ironhack Final Project — 2025 AI Engineer Bootcamp.  
 Feel free to contribute, fork, or reach out for collaborations.
 
