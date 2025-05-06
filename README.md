@@ -1,4 +1,4 @@
-![AIEduBot Interface](image/aiedubot_ui.png)
+<img src="image/aiedubot_ui.png" width="300" />
 
 # 🤖 AIEduBot: Multimodal AI ChatBot for YouTube Video QA
 
