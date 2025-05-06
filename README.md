@@ -6,6 +6,7 @@ Welcome to **AIEduBot** — a multimodal, interactive chatbot designed to answer
 
 🔗 **Live Demo**: [AIEduBot](https://aiedubot-fzt4db9283sdiryyap6cxz.streamlit.app)
 
+<img src="image/AIEduBot.png" width="600" />
 ---
 
 ## 🎯 Project Goal
