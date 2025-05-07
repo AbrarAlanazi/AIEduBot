@@ -1,15 +1,9 @@
-chromadb
-langchain
-langchain-core
-langchain-openai
-langchainhub
-langchain_community
-langsmith
-openai
-python-dotenv
-sentence-transformers
 streamlit
 streamlit-chat
-whisper
-yt-dlp
+langchain
+langchain-community
+openai
+chromadb
+sentence-transformers
+
 
