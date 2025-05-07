@@ -1,15 +1,15 @@
-openai
-whisper
-sentence-transformers
 chromadb
 langchain
-langchainhub
-langchain-openai
 langchain-core
+langchain-openai
+langchainhub
+langchain_community
 langsmith
+openai
 python-dotenv
+sentence-transformers
 streamlit
 streamlit-chat
+whisper
 yt-dlp
-
 
