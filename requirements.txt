@@ -1,0 +1,9 @@
+streamlit
+streamlit-chat
+langchain
+langchain-community
+openai
+chromadb
+sentence-transformers
+
+
